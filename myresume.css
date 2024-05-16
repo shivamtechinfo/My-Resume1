@@ -1,0 +1,26 @@
+table,tr,th,td{
+    border: 2px solid goldenrod;
+    border-collapse: collapse;
+    border-style: double;
+}
+
+
+.page-border{
+    border: 2px solid greenyellow;
+    padding: 40px;
+}
+
+li{
+    text-indent: 30px;
+}
+
+.Square{
+    width: 100px;
+    height: 120px;
+    float: right;
+    margin-top: 45px;
+    margin-right: 40px;
+    position: top;
+    background-color: white;
+    border: 2px solid black;
+}
